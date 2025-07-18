@@ -58,5 +58,5 @@ This tool is developed by Utkarsh Tiwari, a Class 11 CS student.
 
   MIT License – Free for educational and school usage.
 
-          ---
+#
 
