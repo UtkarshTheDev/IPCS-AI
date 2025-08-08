@@ -1,5 +1,5 @@
 
-# 🤖 CSIP AI – Your Future Offline AI Assistant for CS/IP Projects
+# 🤖 CSIP AI – Your Future AI Assistant for CS/IP Projects
 
 > **🚧 Project Status: In Development** - This exciting AI tool is currently being planned and built. Stay tuned for updates!
 
@@ -92,7 +92,7 @@ This project is actively being developed. Features and timeline may evolve as de
 
 ## 👨‍💻 Developer
 
-Created by **Utkarsh Tiwari**, Class 11 CS Student
+Created by **Utkarsh Tiwari**, Class 12 CS Student
 - All development follows academic guidelines
 - Code written within appropriate learning environments
 - Focus on educational value and student empowerment
